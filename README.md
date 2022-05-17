@@ -12,10 +12,7 @@ I am currently studying Software Engineering and I intend to change my area of â
 
 ### Skills and Experience:
 
-![github](https://cdn.icon-icons.com/icons2/2415/PNG/32/csharp_original_logo_icon_146578.png) 
-![github](https://cdn.icon-icons.com/icons2/195/PNG/32/Java_23404.png) 
-![github](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_python_icon_130221.png) 
-![github](https://cdn.icon-icons.com/icons2/1381/PNG/32/unityeditoricon_94269.png) 
+<img src='https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png' alt='github' height='32'> <img src='https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png' alt='github' height='32'> <img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5969/5969294.png' alt='github' height='32'> <img src='https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png' alt='github' height='32'>
 
 ### Social and Portfolio:
 
