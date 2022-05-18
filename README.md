@@ -18,5 +18,5 @@ I am currently studying Software Engineering and I intend to change my area of â
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sbrunolima)  [<img src='https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/bruno-l-santos-793086234/)  [<img src='https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png' alt='instagram' height='40'>](https://www.instagram.com/sbrun.lima/)  [<img src='https://cdn.icon-icons.com/icons2/923/PNG/512/google_play_icon-icons.com_72023.png' alt='website' height='40'>](https://play.google.com/store/apps/developer?id=IDDOSAA)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrunolima&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunolima&layout=compact&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrunolima&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunolima&layout=compact&theme=dark)
