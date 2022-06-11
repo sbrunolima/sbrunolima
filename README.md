@@ -6,13 +6,14 @@ In 2020 I met Engine de Games Unity and started taking the first steps in game d
 
 I am currently studying Software Engineering and I intend to change my area of ​​expertise as soon as I get my first opportunity in this field as a dev.
 
-- 🔭 I’m currently working on Airplane Game Simulator 
-- 🌱 I’m currently learning Software Engineering. 
+- 🔭 I’m currently working on Airplane Game Simulator
+- :books: I’m currently studying Software Engineering. 
+- :books: I’m currently studying Flutter/Dart. 
 - 📫 How to reach me: bruno4study@outlook.com 
 
 ### Skills and Experience:
 
-<img src='https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png' alt='github' height='32'> <img src='https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5969/5969294.png' alt='github' height='32'> <img src='https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png' alt='github' height='32'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png' alt='github' height='32'> <img src='https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png' alt='github' height='32'> <img src='https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png' alt='github' height='32'> <img src='https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5969/5969294.png' alt='github' height='32'> 
 
 ### Social and Portfolio:
 
