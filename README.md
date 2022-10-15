@@ -6,7 +6,6 @@ In 2020 I met Engine de Games Unity and started taking the first steps in game d
 
 I am currently studying Software Engineering and I intend to change my area of ​​expertise as soon as I get my first opportunity in this field as a dev.
 
-- 🔭 I’m currently working on Airplane Game Simulator
 - :books: I’m currently studying Software Engineering. 
 - :books: I’m currently studying Flutter/Dart. 
 - 📫 How to reach me: bruno4study@outlook.com 
