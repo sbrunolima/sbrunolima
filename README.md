@@ -1,10 +1,5 @@
-### Hi there 👋, my name is Bruno.
+### Hi there 👋, my name is Bruno, I'm from Santos, Brazil.
 #### Indie GameDev and Software Engineering Student.
-My name is Bruno, I'm from Santos, Brazil. I currently have a degree in Business Administration and work as a Commercial Manager in a supermarket chain.
-
-In 2020 I met Engine de Games Unity and started taking the first steps in game development. I've released some simple games and apps on Google Play, and I'm working on an aircraft simulator for Android, my most complex game yet.
-
-I am currently studying Software Engineering and I intend to change my area of ​​expertise as soon as I get my first opportunity in this field as a dev.
 
 - :books: I’m currently studying Software Engineering. 
 - :books: I’m currently studying Flutter/Dart. 
