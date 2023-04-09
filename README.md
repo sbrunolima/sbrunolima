@@ -7,7 +7,7 @@
 
 ### Skills and Experience:
 
-<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png' alt='github' height='32'> <img src='https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png' alt='github' height='32'> <img src='https://img.icons8.com/color/344/firebase.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5968/5968342.png' alt='github' height='26'>  <img src='https://cdn-icons-png.flaticon.com/512/4492/4492311.png' alt='github' height='32'> <img src='https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png' alt='github' height='32'> <img src='https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5969/5969294.png' alt='github' height='32'> 
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png' alt='github' height='32'> <img src='https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png' alt='github' height='32'> <img src='https://img.icons8.com/color/344/firebase.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5968/5968342.png' alt='github' height='30'>  <img src='https://cdn-icons-png.flaticon.com/512/4492/4492311.png' alt='github' height='30'> <img src='https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png' alt='github' height='32'> <img src='https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png' alt='github' height='32'> <img src='https://cdn-icons-png.flaticon.com/512/5969/5969294.png' alt='github' height='32'> 
 
 ### Social and Portfolio:
 
