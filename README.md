@@ -3,7 +3,7 @@
 
 - :books: I’m currently studying Software Engineering. 
 - :books: I’m currently studying Flutter/Dart. 
-- 📫 How to reach me: bruno4study@outlook.com 
+- 📫 How to reach me: bruno4study@outlook.com.
 
 ### Skills and Experience:
 
