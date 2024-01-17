@@ -1,9 +1,9 @@
 ### Hi 👋, my name is Bruno, I'm from Santos, SP, Brazil.
-#### Indie GameDev and Flutter Developer...
+#### GameDev and Flutter Developer...
 
 - :books: I’m currently studying Software Engineering. 
 - :books: I’m currently studying Flutter/Dart. 
-- 📫 How to reach me: bruno4study@outlook.com.
+- 📫 How to reach me: sbrunolima@outlook.com.
 
 ### Skills and Experience:
 
